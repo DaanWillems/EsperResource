@@ -1,0 +1,10 @@
+name: EsperResource
+version: 0.1
+author: Solawep
+api-version: 1.16
+main: com.solawep.esperresource.EsperResource
+
+commands:
+  er:
+    description: Base command for the Esper Resource Regeneration plugin
+    usage: /er

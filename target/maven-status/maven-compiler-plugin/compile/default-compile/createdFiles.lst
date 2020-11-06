@@ -1,0 +1,9 @@
+com\solawep\esperresource\region\Region.class
+com\solawep\esperresource\command\ICommandHandler.class
+com\solawep\esperresource\config\ConfigManager.class
+com\solawep\esperresource\listener\BlockBreakListener.class
+com\solawep\esperresource\command\CommandHandler.class
+com\solawep\esperresource\region\RegionManager.class
+com\solawep\esperresource\regeneration\RegenerationManager.class
+com\solawep\esperresource\EsperResource.class
+com\solawep\esperresource\command\CommandDispatcher.class
